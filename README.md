@@ -10,13 +10,17 @@ To avoid any error , download all the files as it is and store in a single folde
 
 You need to import some modules using your windows terminal 
 step1:- open window terminal 
-step2:- enter the code------ pip install requests
-step3:- enter the code ----- pip install tk
-step3:- enter the code ----- pip install pillow
+step2:-Enter the below commannds 
+
+         pip install requests
+
+         pip install tk
+
+         pip install pillow
 
 
 This project is made using API for requesting data from weatherapi.com, Using my account i got the api key which has been mentioned in the main file too in comment.
 You may use your own by just replacing your key with mine
 
-For graphical user interface tkinter has been used which is available in python . just need to import it by calling the pip installer . steps has been mentioned for 
+For graphical user interface tkinter has been used which is available in python . just need to import it by calling the pip installer . Steps has been mentioned for 
 all the packages which need to be installed .
