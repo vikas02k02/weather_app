@@ -24,3 +24,7 @@ You may use your own by just replacing your key with mine
 
 For graphical user interface tkinter has been used which is available in python . just need to import it by calling the pip installer . Steps has been mentioned for 
 all the packages which need to be installed .
+![Screenshot 2023-11-08 002214](https://github.com/vikas02k02/weather_app/assets/110327151/5cdc22fa-5575-4d92-a58b-2d855eee074d)
+![Screenshot 2023-11-08 002234](https://github.com/vikas02k02/weather_app/assets/110327151/98f453ba-5ac1-4ba5-aa03-b1c096adba0b)
+![Screenshot 2023-11-08 002250](https://github.com/vikas02k02/weather_app/assets/110327151/13bb99ad-5302-4e1b-96ef-30f255915751)
+![Screenshot 2023-11-08 002316](https://github.com/vikas02k02/weather_app/assets/110327151/65305c3c-479d-4a8c-ae75-7f5db910d5f5)
